@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="https://streak-stats.demolab.com?user=amelsadoun&theme=synthwave&border_radius=20" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelsadoun&layout=compact&theme=synthwave&hide_border=false" alt="Most Used Languages" />
 
 <!--
 **amelsadoun/amelsadoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

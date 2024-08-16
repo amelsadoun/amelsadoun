@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amelsadoun&theme=jolly&border_radius=20" alt="GitHub Streak" /></a>
+
 <!--
 **amelsadoun/amelsadoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

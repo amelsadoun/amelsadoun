@@ -1,7 +1,9 @@
 ## Hello there :)
 
+<p style="font-size: 20px">
 4th-year Computer Systems Engineering student at ESI Algiers. Passionate about networks and embedded systems, with hands-on experience in full-stack web and mobile development (React Native, Next.js, Node.js). I enjoy building scalable systems from low-level architecture to polished user interfaces.
----
+</p>
+
 
 <div align="center">
   <table>

@@ -1,7 +1,6 @@
 ## Hello there :)
 
-I'm **Amel Sadoun**, a passionate **Computer Science student** and **Front-End Developer**. I occasionally delve into back-end development and also create mobile apps using **React Native**. I enjoy building optimized and functional applications, constantly learning new technologies to enhance my skills. Currently, I'm a 3rd-year student at **ESI Algiers**.
-
+4th-year Computer Systems Engineering student at ESI Algiers. Passionate about networks and embedded systems, with hands-on experience in full-stack web and mobile development (React Native, Next.js, Node.js). I enjoy building scalable systems from low-level architecture to polished user interfaces.
 ---
 
 <div align="center">
